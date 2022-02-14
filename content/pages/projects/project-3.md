@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 3: Convection'
+type: CourseSection
 uid: 3a1ab119-ff16-12d9-4739-be22a5e1ed81
 ---
 

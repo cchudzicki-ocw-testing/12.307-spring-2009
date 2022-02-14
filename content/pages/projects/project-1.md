@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 1: Mass and Wind'
+type: CourseSection
 uid: dee1ac1e-1863-8443-81e0-db9b48e2ece1
 ---
 

@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 4: Circulation'
+type: CourseSection
 uid: 33273116-1eae-d045-a1db-6ee09905cec3
 ---
 

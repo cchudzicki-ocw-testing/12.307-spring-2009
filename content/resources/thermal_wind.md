@@ -4,7 +4,12 @@ description: Lecture notes on thermal wind balance, key equations, and the under
   physics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-307-weather-and-climate-laboratory-spring-2009/b5b2713aee9842960630961e0e4e7a52_thermal_wind.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Thermal wind
+type: OCWFile
 uid: b5b2713a-ee98-4296-0630-961e0e4e7a52
 ---
