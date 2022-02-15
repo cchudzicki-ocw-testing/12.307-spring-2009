@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Thermal wind
-type: OCWFile
 uid: b5b2713a-ee98-4296-0630-961e0e4e7a52
 ---

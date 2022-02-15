@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project 1: Mass and Wind - Geostrophic / Ageostrophic Flow'
-type: OCWFile
 uid: c26dc9e4-3091-802e-bd6e-3fe82d858075
 ---

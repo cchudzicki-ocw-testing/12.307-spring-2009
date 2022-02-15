@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Geostrophic balance
-type: OCWFile
 uid: d802205c-c5e2-4d63-0c3e-8021335b35b1
 ---

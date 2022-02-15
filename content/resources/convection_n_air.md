@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Convection in air (a compressible fluid)
-type: OCWFile
 uid: 6f19429b-bee0-d643-af89-d54370e8e468
 ---

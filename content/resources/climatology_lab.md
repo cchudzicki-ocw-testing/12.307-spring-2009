@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project 4: General Circulation'
-type: OCWFile
 uid: 518572c6-9ea8-2da5-6aea-2ef65ce32947
 ---

@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project 1: Radial Inflow Experiment'
-type: OCWFile
 uid: bba1181c-5fb9-95ba-e78b-84e1c60f1ee2
 ---

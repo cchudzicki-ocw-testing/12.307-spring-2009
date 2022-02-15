@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Rubric for Student Reports
-type: OCWFile
 uid: df22f759-3df5-7948-1863-b75d9c21df9b
 ---
