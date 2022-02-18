@@ -12,13 +12,13 @@ uid: 3a1ab119-ff16-12d9-4739-be22a5e1ed81
 
 In this project we enquire in to the nature of the convective process. We will simulate convection in the laboratory using a tank of water with a heating pad at its base and study convection in the atmosphere using thermodynamic diagrams.
 
-Project Description ([PDF]({{< baseurl >}}/resources/project3))
+Project Description ({{< resource_link ed6109be-1fff-ecf5-ac25-c4a1d9cb49d3 "PDF" >}})
 
 Notes on relevant theory:
 
-Convection of an incompressible fluid ([PDF]({{< baseurl >}}/resources/convection_n_air))
+Convection of an incompressible fluid ({{< resource_link 6f19429b-bee0-d643-af89-d54370e8e468 "PDF" >}})
 
-Convection in a compressible atmosphere ([PDF]({{< baseurl >}}/resources/convecton_n_watr))
+Convection in a compressible atmosphere ({{< resource_link 1caad38c-7419-53e0-35b2-fce372868819 "PDF" >}})
 
 Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 4: Convection (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://paoc.mit.edu/labweb/notes/chap4.pdf))
 
