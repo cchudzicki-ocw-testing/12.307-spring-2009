@@ -12,9 +12,9 @@ uid: 6e3412d8-9eb9-74a9-830a-26714d44d10d
 
 In this project, we inspect fronts crossing the country associated with day-to-day variations in the weather using real-time atmospheric observations. In the laboratory we create fronts by allowing salty (and hence dense) columns of water to collapse under rotation and gravity. We discover that the observed changes in winds and temperature across our laboratory and atmospheric fronts is consistent with Margule's formula (a discrete form of the thermal wind equation) and see that the dynamical balance at work in the atmosphere is the same as in the density fronts created in the rotating tank.
 
-Project Description ({{< resource_link a90f647c-277b-1526-ce52-4c62d11d4584 "PDF" >}})
+Project Description ({{% resource_link a90f647c-277b-1526-ce52-4c62d11d4584 "PDF" %}})
 
-Notes on relevant theory: thermal wind ({{< resource_link b5b2713a-ee98-4296-0630-961e0e4e7a52 "PDF" >}})
+Notes on relevant theory: thermal wind ({{% resource_link b5b2713a-ee98-4296-0630-961e0e4e7a52 "PDF" %}})
 
 Tank Experiments
 ----------------

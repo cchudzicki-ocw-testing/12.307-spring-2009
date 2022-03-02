@@ -12,7 +12,7 @@ uid: 33273116-1eae-d045-a1db-6ee09905cec3
 
 In this final project, we draw together some of the ideas explored in Projects 1, 2, and 3 and apply them to study, using atmospheric data and a rotating annulus, aspects of the general circulation of the atmosphere.
 
-Project Description ({{< resource_link 518572c6-9ea8-2da5-6aea-2ef65ce32947 "PDF" >}})
+Project Description ({{% resource_link 518572c6-9ea8-2da5-6aea-2ef65ce32947 "PDF" %}})
 
 Notes on relevant theory:
 

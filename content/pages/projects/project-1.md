@@ -12,12 +12,12 @@ uid: dee1ac1e-1863-8443-81e0-db9b48e2ece1
 
 The purpose of this project is to study, using meteorological observations and laboratory experiments, the relation between the wind field and the mass field in a rotating system. In part I we explore the relationship in laboratory experiments; in part II atmospheric observations of intense cyclones and hurricanes are used.
 
-Project Description ({{< resource_link c26dc9e4-3091-802e-bd6e-3fe82d858075 "PDF" >}})
+Project Description ({{% resource_link c26dc9e4-3091-802e-bd6e-3fe82d858075 "PDF" %}})
 
 Tank Experiments
 ----------------
 
-\- Detailed description of the radial inflow tank experiment, together with associated theory. ({{< resource_link bba1181c-5fb9-95ba-e78b-84e1c60f1ee2 "PDF" >}})
+\- Detailed description of the radial inflow tank experiment, together with associated theory. ({{% resource_link bba1181c-5fb9-95ba-e78b-84e1c60f1ee2 "PDF" %}})
 
 \- View recordings of the [Balanced Vortex Experiment](http://weathertank.mit.edu/links/projects/balanced-vortex-introduction/balanced-vortex-theory) at the Weather in a Tank Web site
 
@@ -48,7 +48,7 @@ Choose an hurricane case from the [Scatterometer Imagery of Historical Storms](h
 
 ### Upper Air Analyses and Geostrophic/ageostrophic Flow
 
-Read here for notes on geostrophic balance and on hydrostatic balance. ({{< resource_link d802205c-c5e2-4d63-0c3e-8021335b35b1 "PDF 1" >}}) ({{< resource_link d6768eca-18db-c5fc-6d1f-ac9d27dcf147 "PDF 2" >}})
+Read here for notes on geostrophic balance and on hydrostatic balance. ({{% resource_link d802205c-c5e2-4d63-0c3e-8021335b35b1 "PDF 1" %}}) ({{% resource_link d6768eca-18db-c5fc-6d1f-ac9d27dcf147 "PDF 2" %}})
 
 **Planetary scale:** Use [Scalar and Wind](http://paoc.mit.edu/synoptic/custom/anyscalarwind.asp) to plot the 500 mb height and wind (observed and geostrophic) on the large scale. Discuss the balance of force typical of the large scale atmospheric motion.
 
