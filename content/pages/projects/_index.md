@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Projects based on the use of real-time meteorological observations stress the analysis and dynamical interpretation of weather and climate phenomena. These are complemented by rotating tank experiments, which offer the possibility of using a controlled laboratory environment to plan an experiment, explain ideas to be tested, observe and record the data.

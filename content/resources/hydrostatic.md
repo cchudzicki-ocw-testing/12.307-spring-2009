@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'The relationship between pressure and density: hydrostatic balance'
 uid: d6768eca-18db-c5fc-6d1f-ac9d27dcf147
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

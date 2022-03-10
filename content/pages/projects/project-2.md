@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 2: Fronts'
 uid: 6e3412d8-9eb9-74a9-830a-26714d44d10d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this project, we inspect fronts crossing the country associated with day-to-day variations in the weather using real-time atmospheric observations. In the laboratory we create fronts by allowing salty (and hence dense) columns of water to collapse under rotation and gravity. We discover that the observed changes in winds and temperature across our laboratory and atmospheric fronts is consistent with Margule's formula (a discrete form of the thermal wind equation) and see that the dynamical balance at work in the atmosphere is the same as in the density fronts created in the rotating tank.

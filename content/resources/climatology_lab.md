@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project 4: General Circulation'
 uid: 518572c6-9ea8-2da5-6aea-2ef65ce32947
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Convection in water (an almost-incompressible fluid)
 uid: 1caad38c-7419-53e0-35b2-fce372868819
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

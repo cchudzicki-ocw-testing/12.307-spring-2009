@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project 1: Mass and Wind - Geostrophic / Ageostrophic Flow'
 uid: c26dc9e4-3091-802e-bd6e-3fe82d858075
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

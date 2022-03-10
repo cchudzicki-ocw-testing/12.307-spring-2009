@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 4: Circulation'
 uid: 33273116-1eae-d045-a1db-6ee09905cec3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this final project, we draw together some of the ideas explored in Projects 1, 2, and 3 and apply them to study, using atmospheric data and a rotating annulus, aspects of the general circulation of the atmosphere.

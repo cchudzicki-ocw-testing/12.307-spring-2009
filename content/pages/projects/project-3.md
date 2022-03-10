@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 3: Convection'
 uid: 3a1ab119-ff16-12d9-4739-be22a5e1ed81
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this project we enquire in to the nature of the convective process. We will simulate convection in the laboratory using a tank of water with a heating pad at its base and study convection in the atmosphere using thermodynamic diagrams.

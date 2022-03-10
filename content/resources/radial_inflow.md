@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project 1: Radial Inflow Experiment'
 uid: bba1181c-5fb9-95ba-e78b-84e1c60f1ee2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

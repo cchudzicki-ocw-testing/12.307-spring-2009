@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project 2: Fronts'
 uid: a90f647c-277b-1526-ce52-4c62d11d4584
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Thermal wind
 uid: b5b2713a-ee98-4296-0630-961e0e4e7a52
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

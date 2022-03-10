@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Rubric for Student Reports
 uid: df22f759-3df5-7948-1863-b75d9c21df9b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

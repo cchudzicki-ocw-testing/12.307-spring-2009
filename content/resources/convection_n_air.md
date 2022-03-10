@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Convection in air (a compressible fluid)
 uid: 6f19429b-bee0-d643-af89-d54370e8e468
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

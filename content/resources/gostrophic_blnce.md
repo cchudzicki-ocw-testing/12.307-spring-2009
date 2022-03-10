@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Geostrophic balance
 uid: d802205c-c5e2-4d63-0c3e-8021335b35b1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

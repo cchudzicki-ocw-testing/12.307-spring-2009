@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 title: 'Project 1: Mass and Wind'
 uid: dee1ac1e-1863-8443-81e0-db9b48e2ece1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The purpose of this project is to study, using meteorological observations and laboratory experiments, the relation between the wind field and the mass field in a rotating system. In part I we explore the relationship in laboratory experiments; in part II atmospheric observations of intense cyclones and hurricanes are used.
