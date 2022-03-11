@@ -16,4 +16,6 @@ title: Thermal Wind
 uid: aab37320-8abd-9a83-73c1-c55e9dceed21
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
