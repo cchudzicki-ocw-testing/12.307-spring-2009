@@ -24,7 +24,7 @@ Convection of an incompressible fluid ({{% resource_link 6f19429b-bee0-d643-af89
 
 Convection in a compressible atmosphere ({{% resource_link 1caad38c-7419-53e0-35b2-fce372868819 "PDF" %}})
 
-Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 4: Convection (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://paoc.mit.edu/labweb/notes/chap4.pdf))
+Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 4: Convection ([PDF - 1.9 MB](http://paoc.mit.edu/labweb/notes/chap4.pdf))
 
 Tank Experiment
 ---------------
