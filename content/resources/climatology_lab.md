@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for a project to study aspects of the general circulation
   of the atmosphere using atmospheric data and a rotating annulus.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-307-weather-and-climate-laboratory-spring-2009/518572c69ea82da56aea2ef65ce32947_climatology_lab.pdf
+file: /courses/12-307-weather-and-climate-laboratory-spring-2009/518572c69ea82da56aea2ef65ce32947_climatology_lab.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Instructions for a project to study aspects of the general circulation of the atmosphere using atmospheric data and a rotating annulus.
