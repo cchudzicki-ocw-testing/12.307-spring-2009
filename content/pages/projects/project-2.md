@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features a project to inspect fronts crossing the country
+  associated with day-to-day variations in the weather using real-time atmospheric
+  observations.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

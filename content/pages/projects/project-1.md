@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features a project to study the relation between the wind
+  field and the mass field in a rotating system using meteorological observations
+  and laboratory experiments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

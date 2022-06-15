@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a project to study aspects of the general circulation
+  of the atmosphere using atmospheric data and a rotating annulus.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

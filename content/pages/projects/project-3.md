@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section features a project on the nature of the convective process.
+  Students simulate convection in the laboratory using a tank of water with a heating
+  pad at its base and study convection in the atmosphere using thermodynamic diagrams. '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
