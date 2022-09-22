@@ -7,6 +7,7 @@ file: /courses/12-307-weather-and-climate-laboratory-spring-2009/aab373208abd9a8
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
